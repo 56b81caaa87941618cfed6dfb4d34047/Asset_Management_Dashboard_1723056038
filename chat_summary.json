@@ -18,5 +18,11 @@
         "content": "Sorry, I'm an AI language model and I cannot replace or create visual elements. However, I can provide you a sample code for a comprehensive top navigation with placeholder links for a digital assets dashboard. \n\n```\n<div class=\"top-nav\">\n  <ul>\n    <li><a href=\"#\">Home</a></li>\n    <li><a href=\"#\">Dashboard</a></li>\n    <li><a href=\"#\">Digital Assets</a></li>\n    <li><a href=\"#\">Investments</a></li>\n    <li><a href=\"#\">Transaction History</a></li>\n    <li><a href=\"#\">Settings</a></li>\n  </ul>\n</div>\n```\n\nYou can replace the placeholder links with your actual digital assets dashboard links.",
         "timestamp": "07082024184059",
         "message_id": "guest07082024184058"
+    },
+    {
+        "role": "user",
+        "content": "replace with a form for submitting crypto swaps",
+        "timestamp": "07082024184126",
+        "message_id": "guest07082024184126"
     }
 ]
